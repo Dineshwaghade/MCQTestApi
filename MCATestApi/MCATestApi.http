@@ -1,0 +1,6 @@
+@MCATestApi_HostAddress = http://localhost:5095
+
+GET {{MCATestApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
